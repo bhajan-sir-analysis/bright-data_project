@@ -29,7 +29,7 @@ How old snapshots can be used even after trial expiry
 
 How raw data is cleaned and mapped into final usable format
 
-📌 This video is provided only for demonstration purposes.
+📌 These videos is provided only for demonstration purposes.
 
 4. final_pipeline.py
 
